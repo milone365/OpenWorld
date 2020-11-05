@@ -1,0 +1,1121 @@
+﻿Log file open, 11/05/20 12:08:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Open_W
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.168035
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz, GPU: Intel(R) HD Graphics 5500
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.11.05-03.08.22:800][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.11.05-03.08.22:800][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.11.05-03.08.22:800][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Config/Windows/Engine.ini]
+[2020.11.05-03.08.22:800][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.11.05-03.08.22:800][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Config/Windows/Engine.ini]
+[2020.11.05-03.08.22:800][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Config/Windows/Engine.ini]
+[2020.11.05-03.08.22:801][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.11.05-03.08.22:801][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.11.05-03.08.22:801][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.11.05-03.08.22:801][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.11.05-03.08.22:801][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.11.05-03.08.22:801][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.11.05-03.08.22:801][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.11.05-03.08.22:801][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.11.05-03.08.22:801][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.11.05-03.08.22:801][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.11.05-03.08.22:801][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.11.05-03.08.22:802][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.11.05-03.08.22:802][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.11.05-03.08.22:802][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.11.05-03.08.22:802][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Config/Windows/Engine.ini]
+[2020.11.05-03.08.22:802][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.11.05-03.08.22:802][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.11.05-03.08.22:802][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.11.05-03.08.22:802][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.11.05-03.08.22:802][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.11.05-03.08.22:802][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.11.05-03.08.22:802][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.11.05-03.08.22:802][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.11.05-03.08.22:802][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.11.05-03.08.22:802][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.11.05-03.08.22:802][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.11.05-03.08.22:803][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.11.05-03.08.22:803][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.11.05-03.08.22:803][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Config/Windows/Engine.ini]
+[2020.11.05-03.08.22:803][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Config/Windows/Engine.ini]
+[2020.11.05-03.08.22:809][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-03.08.22:809][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.05-03.08.22:809][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.05-03.08.22:809][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-03.08.22:809][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.05-03.08.22:810][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-03.08.22:810][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.05-03.08.22:810][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.05-03.08.22:810][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.05-03.08.22:810][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.05-03.08.22:810][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.05-03.08.22:810][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.05-03.08.22:810][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.05-03.08.22:810][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.05-03.08.22:810][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.05-03.08.22:810][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.05-03.08.22:810][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.05-03.08.22:810][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.05-03.08.22:810][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.05-03.08.22:810][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.05-03.08.22:810][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.05-03.08.22:810][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.05-03.08.22:810][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.05-03.08.22:810][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.05-03.08.22:810][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-03.08.22:810][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.05-03.08.22:810][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.05-03.08.22:810][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.05-03.08.22:811][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.05-03.08.22:811][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.05-03.08.22:811][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.05-03.08.22:811][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.05-03.08.22:811][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.05-03.08.22:811][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.05-03.08.22:811][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.05-03.08.22:811][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.05-03.08.22:811][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.05-03.08.22:811][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.05-03.08.22:811][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.05-03.08.22:811][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.05-03.08.22:811][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.05-03.08.22:811][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.05-03.08.22:811][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.05-03.08.22:811][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.05-03.08.22:811][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.05-03.08.22:811][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.05-03.08.22:811][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.05-03.08.22:811][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.05-03.08.22:811][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.05-03.08.22:811][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.05-03.08.22:811][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.05-03.08.22:811][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.05-03.08.22:811][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.05-03.08.22:811][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.05-03.08.22:811][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.05-03.08.22:812][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-03.08.22:812][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.05-03.08.22:812][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.05-03.08.22:812][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.05-03.08.22:812][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.05-03.08.22:812][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.05-03.08.22:812][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.05-03.08.22:812][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.05-03.08.22:812][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.05-03.08.22:812][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.05-03.08.22:812][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-03.08.22:812][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.05-03.08.22:812][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.05-03.08.22:812][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.05-03.08.22:812][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.05-03.08.22:812][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.05-03.08.22:812][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.05-03.08.22:812][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.05-03.08.22:812][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.05-03.08.22:812][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.05-03.08.22:812][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.05-03.08.22:813][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.05-03.08.22:813][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.11.05-03.08.22:813][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.05-03.08.22:813][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.05-03.08.22:813][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.05-03.08.22:813][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.05-03.08.22:813][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.05-03.08.22:813][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.05-03.08.22:813][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.05-03.08.22:813][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.05-03.08.22:813][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.05-03.08.22:813][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.05-03.08.22:813][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.05-03.08.22:813][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.05-03.08.22:813][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.05-03.08.22:813][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.05-03.08.22:813][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-03.08.22:814][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.05-03.08.22:814][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.05-03.08.22:814][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-03.08.22:814][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.05-03.08.22:814][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.05-03.08.22:814][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.05-03.08.22:814][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.05-03.08.22:814][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.11.05-03.08.22:820][  0]LogHAL: Display: Platform has ~ 8 GB [8508424192 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.11.05-03.08.22:820][  0]LogInit: Going up to parent DeviceProfile []
+[2020.11.05-03.08.22:820][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-03.08.22:821][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.05-03.08.22:821][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.05-03.08.22:821][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-03.08.22:821][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.05-03.08.22:821][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-03.08.22:821][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.05-03.08.22:821][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.05-03.08.22:821][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.05-03.08.22:821][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.05-03.08.22:821][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.05-03.08.22:821][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.05-03.08.22:821][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.05-03.08.22:821][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.05-03.08.22:821][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.05-03.08.22:821][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.05-03.08.22:821][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.05-03.08.22:821][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.05-03.08.22:821][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.05-03.08.22:822][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.05-03.08.22:822][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.05-03.08.22:822][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.05-03.08.22:822][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.05-03.08.22:822][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.05-03.08.22:822][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-03.08.22:822][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.05-03.08.22:822][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.05-03.08.22:822][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.05-03.08.22:822][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.05-03.08.22:822][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.05-03.08.22:822][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.05-03.08.22:822][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.05-03.08.22:822][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.05-03.08.22:822][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.05-03.08.22:822][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.05-03.08.22:822][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.05-03.08.22:822][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.05-03.08.22:822][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.05-03.08.22:823][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.05-03.08.22:823][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.05-03.08.22:823][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.05-03.08.22:823][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.05-03.08.22:823][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.05-03.08.22:823][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.05-03.08.22:823][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.05-03.08.22:823][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.05-03.08.22:823][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.05-03.08.22:824][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.05-03.08.22:824][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.05-03.08.22:824][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.05-03.08.22:824][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.05-03.08.22:824][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.05-03.08.22:824][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.05-03.08.22:824][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.05-03.08.22:824][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.05-03.08.22:824][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-03.08.22:824][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.05-03.08.22:824][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.05-03.08.22:824][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.05-03.08.22:824][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.05-03.08.22:824][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.05-03.08.22:825][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.05-03.08.22:825][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.05-03.08.22:825][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.05-03.08.22:825][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.05-03.08.22:825][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-03.08.22:825][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.05-03.08.22:825][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.05-03.08.22:825][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.05-03.08.22:825][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.05-03.08.22:826][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.05-03.08.22:826][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.05-03.08.22:826][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.05-03.08.22:826][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.05-03.08.22:826][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.05-03.08.22:826][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.05-03.08.22:826][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.05-03.08.22:826][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.11.05-03.08.22:826][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.05-03.08.22:826][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.05-03.08.22:826][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.05-03.08.22:826][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.05-03.08.22:826][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.05-03.08.22:826][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.05-03.08.22:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.05-03.08.22:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.05-03.08.22:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.05-03.08.22:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.05-03.08.22:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.05-03.08.22:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.05-03.08.22:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.05-03.08.22:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.05-03.08.22:827][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-03.08.22:827][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.05-03.08.22:827][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.05-03.08.22:827][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Config/Windows/Scalability.ini]
+[2020.11.05-03.08.22:827][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.05-03.08.22:827][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.05-03.08.22:827][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.05-03.08.22:827][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.11.05-03.08.22:828][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.11.05-03.08.22:828][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.11.05-03.08.22:828][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Config/Windows/Engine.ini]
+[2020.11.05-03.08.22:828][  0]LogInit: Computer: ROBERTO
+[2020.11.05-03.08.22:829][  0]LogInit: User: Robertom
+[2020.11.05-03.08.22:829][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.11.05-03.08.22:829][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.11.05-03.08.22:829][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.11.05-03.08.22:829][  0]LogMemory: Platform Memory Stats for Windows
+[2020.11.05-03.08.22:829][  0]LogMemory: Process Physical Memory: 106.18 MB used, 106.18 MB peak
+[2020.11.05-03.08.22:829][  0]LogMemory: Process Virtual Memory: 100.09 MB used, 100.09 MB peak
+[2020.11.05-03.08.22:829][  0]LogMemory: Physical Memory: 5719.06 MB used,  2395.21 MB free, 8114.27 MB total
+[2020.11.05-03.08.22:829][  0]LogMemory: Virtual Memory: 5084.68 MB used,  134212640.00 MB free, 134217728.00 MB total
+[2020.11.05-03.08.22:836][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.11.05-03.08.22:885][  0]LogInit: Using OS detected language (it-IT).
+[2020.11.05-03.08.22:886][  0]LogInit: Using OS detected locale (it-IT).
+[2020.11.05-03.08.22:889][  0]LogTextLocalizationManager: No specific localization for 'it-IT' exists, so the 'it' localization will be used.
+[2020.11.05-03.08.22:891][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/it/Editor.locres' could not be opened for reading!
+[2020.11.05-03.08.22:892][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/it/EditorTutorials.locres' could not be opened for reading!
+[2020.11.05-03.08.22:893][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/it/Keywords.locres' could not be opened for reading!
+[2020.11.05-03.08.22:893][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/it/Category.locres' could not be opened for reading!
+[2020.11.05-03.08.22:894][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/it/ToolTips.locres' could not be opened for reading!
+[2020.11.05-03.08.22:894][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/it/PropertyNames.locres' could not be opened for reading!
+[2020.11.05-03.08.22:894][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/it/Engine.locres' could not be opened for reading!
+[2020.11.05-03.08.22:897][  0]LogInit: Setting process to per monitor DPI aware
+[2020.11.05-03.08.22:959][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.11.05-03.08.22:959][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.11.05-03.08.23:452][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.05-03.08.23:452][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.11.05-03.08.23:452][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.11.05-03.08.23:452][  0]LogD3D11RHI: D3D11 adapters:
+[2020.11.05-03.08.23:845][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940M' (Feature Level 11_0)
+[2020.11.05-03.08.23:845][  0]LogD3D11RHI:       2010/0/4057 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.11.05-03.08.23:857][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2020.11.05-03.08.23:857][  0]LogD3D11RHI:       128/0/4057 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.11.05-03.08.23:862][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.11.05-03.08.23:862][  0]LogD3D11RHI:       0/0/4057 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.11.05-03.08.23:863][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.11.05-03.08.23:921][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.11.05-03.08.23:921][  0]LogD3D11RHI:     GPU DeviceId: 0x1347 (for the marketing name, search the web for "GPU Device Id")
+[2020.11.05-03.08.23:921][  0]LogWindows: EnumDisplayDevices:
+[2020.11.05-03.08.23:922][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2020.11.05-03.08.23:923][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2020.11.05-03.08.23:924][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2020.11.05-03.08.23:925][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.11.05-03.08.23:925][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940M
+[2020.11.05-03.08.23:925][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.11.05-03.08.23:925][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.11.05-03.08.23:925][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2020.11.05-03.08.24:004][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.11.05-03.08.24:004][  0]LogD3D11RHI: Async texture creation enabled
+[2020.11.05-03.08.24:025][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.11.05-03.08.26:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.11.05-03.08.26:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.11.05-03.08.26:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.11.05-03.08.26:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.11.05-03.08.26:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.11.05-03.08.26:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.11.05-03.08.26:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.11.05-03.08.26:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.11.05-03.08.26:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.11.05-03.08.26:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.11.05-03.08.26:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.11.05-03.08.26:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.11.05-03.08.26:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.11.05-03.08.26:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.11.05-03.08.26:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.11.05-03.08.26:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.11.05-03.08.26:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.11.05-03.08.26:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.11.05-03.08.26:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.11.05-03.08.26:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.11.05-03.08.26:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.11.05-03.08.26:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.11.05-03.08.26:451][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.11.05-03.08.26:464][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.11.05-03.08.26:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.11.05-03.08.26:489][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.11.05-03.08.26:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.11.05-03.08.26:545][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.11.05-03.08.26:545][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.11.05-03.08.26:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.11.05-03.08.26:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.11.05-03.08.26:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.11.05-03.08.26:596][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.11.05-03.08.26:609][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.11.05-03.08.26:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.11.05-03.08.26:620][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.11.05-03.08.26:629][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.11.05-03.08.26:686][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Intermediate/Shaders/WorkingDirectory/14172/).
+[2020.11.05-03.08.26:687][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Robertom/AppData/Local/Temp/UnrealShaderWorkingDir/30B373EC425D3EEF46739BA6B7559118/'.
+[2020.11.05-03.08.26:688][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.11.05-03.08.26:688][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.11.05-03.08.26:688][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.11.05-03.08.27:809][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.11.05-03.08.27:926][  0]LogDerivedDataCache: Loaded boot cache 0.12s 78MB C:/Users/Robertom/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.11.05-03.08.27:926][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Robertom/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.11.05-03.08.27:926][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.11.05-03.08.27:926][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.11.05-03.08.27:926][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.05-03.08.27:926][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.11.05-03.08.27:940][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.11.05-03.08.27:940][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.05-03.08.27:940][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.11.05-03.08.27:942][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Robertom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.11.05-03.08.27:942][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.11.05-03.08.27:942][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.11.05-03.08.27:978][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.11.05-03.08.27:981][  0]LogSlate: Using FreeType 2.10.0
+[2020.11.05-03.08.27:983][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.05-03.08.28:104][  0]LogAssetRegistry: FAssetRegistry took 0.0039 seconds to start up
+[2020.11.05-03.08.28:606][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.05-03.08.29:940][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.11.05-03.08.29:940][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.11.05-03.08.29:940][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.11.05-03.08.29:940][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.11.05-03.08.29:940][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.11.05-03.08.29:960][  0]LogNetVersion: Open_W 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 881045883)
+[2020.11.05-03.08.32:894][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.299257 seconds
+[2020.11.05-03.08.32:903][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.11.05-03.08.32:903][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.11.05-03.08.32:903][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.11.05-03.08.39:647][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.11.05-03.08.39:774][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.11.05-03.08.40:836][  0]SourceControl: Source control is disabled
+[2020.11.05-03.08.40:836][  0]SourceControl: Source control is disabled
+[2020.11.05-03.08.40:900][  0]SourceControl: Source control is disabled
+[2020.11.05-03.08.41:003][  0]SourceControl: Source control is disabled
+[2020.11.05-03.08.41:083][  0]SourceControl: Source control is disabled
+[2020.11.05-03.08.42:323][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.11.05-03.08.42:480][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.05-03.08.42:480][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.05-03.08.43:130][  0]LogOcInput: OculusInput pre-init called
+[2020.11.05-03.08.43:214][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.11.05-03.08.43:214][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.11.05-03.08.43:500][  0]LogEngine: Initializing Engine...
+[2020.11.05-03.08.43:502][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.05-03.08.43:505][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.11.05-03.08.43:996][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.11.05-03.08.44:114][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.11.05-03.08.44:142][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.05-03.08.44:142][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.05-03.08.44:142][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.05-03.08.44:142][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.05-03.08.44:142][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.05-03.08.44:142][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.05-03.08.44:142][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.05-03.08.44:142][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.05-03.08.44:144][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.05-03.08.44:144][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.05-03.08.44:213][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.05-03.08.44:213][  0]LogAudioMixer: Display: Name: Cassa/Cuffie (Realtek High Definition Audio)
+[2020.11.05-03.08.44:213][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.11.05-03.08.44:213][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.05-03.08.44:213][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.05-03.08.44:214][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.05-03.08.44:214][  0]LogAudioMixer: Display: Channel Order:
+[2020.11.05-03.08.44:214][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.05-03.08.44:214][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.11.05-03.08.44:261][  0]LogAudioMixer: Display: Using Audio Device Cassa/Cuffie (Realtek High Definition Audio)
+[2020.11.05-03.08.44:268][  0]LogInit: FAudioDevice initialized.
+[2020.11.05-03.08.44:269][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.11.05-03.08.46:472][  0]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.05-03.08.46:472][  0]LogDerivedDataCache: Saved boot cache 2.20s 78MB C:/Users/Robertom/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.11.05-03.08.46:472][  0]LogInit: Texture streaming: Enabled
+[2020.11.05-03.08.47:761][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.11.05-03.08.47:761][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.11.05-03.08.47:897][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.11.05-03.08.48:777][  0]LogInit: Transaction tracking system initialized
+[2020.11.05-03.08.49:039][  0]BlueprintLog: New page: Editor Load
+[2020.11.05-03.08.49:395][  0]LocalizationService: Localization service is disabled
+[2020.11.05-03.08.50:044][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Content/' took 0.04s
+[2020.11.05-03.08.50:044][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.11.05-03.08.50:044][  0]LogCook: Display: Mobile HDR setting 1
+[2020.11.05-03.08.51:671][  0]SourceControl: Source control is disabled
+[2020.11.05-03.08.51:671][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Content/Robo/Scenes/TestLeve.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.05-03.08.51:672][  0]LightingResults: New page: Lighting Build
+[2020.11.05-03.08.51:673][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-03.08.51:673][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-03.08.51:674][  0]MapCheck: New page: Map Check
+[2020.11.05-03.08.51:674][  0]LightingResults: New page: Lighting Build
+[2020.11.05-03.08.51:705][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.11.05-03.09.06:257][  0]LogAIModule: Creating AISystem for world TestLeve
+[2020.11.05-03.09.15:259][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.05-03.09.15:412][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.11.05-03.09.15:412][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.05-03.09.15:413][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,626ms to complete.
+[2020.11.05-03.09.15:413][  0]LogFileHelpers: Loading map 'TestLeve' took 23.742
+[2020.11.05-03.09.16:629][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-03.09.16:698][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-03.09.16:707][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-03.09.16:717][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-03.09.16:926][  0]LogCollectionManager: Loaded 0 collections in 0.005096 seconds
+[2020.11.05-03.09.17:207][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Collections/' took 0.00s
+[2020.11.05-03.09.17:207][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Content/Developers/Robertom/Collections/' took 0.00s
+[2020.11.05-03.09.17:207][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Content/Collections/' took 0.00s
+[2020.11.05-03.09.17:207][  0]LogContentBrowser: Native class hierarchy populated in 0.0109 seconds. Added 3015 classes and 717 folders.
+[2020.11.05-03.09.17:486][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.11.05-03.09.19:414][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.11.05-03.09.19:545][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 3 folders.
+[2020.11.05-03.09.21:696][  0]LogSlate: Took 0.000594 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.05-03.09.21:711][  0]LogSlate: Took 0.000475 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.11.05-03.09.21:798][  0]LogSlate: Took 0.015080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.11.05-03.09.22:413][  0]LogRenderer: Reallocating scene render targets to support 688x312 Format 10 NumSamples 1 (Frame:1).
+[2020.11.05-03.09.24:297][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.11.05-03.09.24:297][  0]LogLoad: (Engine Initialization) Total time: 71.47 seconds
+[2020.11.05-03.09.24:297][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.11.05-03.09.24:529][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.11.05-03.09.24:756][  0]LogSlate: Took 0.040218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.05-03.09.25:501][  2]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	DemonAnimator_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.DemonAnimator_C_0
+	Function /Game/Robo/Characters/Demon/Anima/DemonAnimator.DemonAnimator_C:ExecuteUbergraph_DemonAnimator:009B
+[2020.11.05-03.09.25:501][  2]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	DemonAnimator_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.DemonAnimator_C_0
+	Function /Game/Robo/Characters/Demon/Anima/DemonAnimator.DemonAnimator_C:ExecuteUbergraph_DemonAnimator:00CD
+[2020.11.05-03.09.25:501][  2]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	DemonAnimator_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.DemonAnimator_C_0
+	Function /Game/Robo/Characters/Demon/Anima/DemonAnimator.DemonAnimator_C:ExecuteUbergraph_DemonAnimator:0166
+[2020.11.05-03.09.25:501][  2]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	DemonAnimator_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.DemonAnimator_C_0
+	Function /Game/Robo/Characters/Demon/Anima/DemonAnimator.DemonAnimator_C:ExecuteUbergraph_DemonAnimator:0198
+[2020.11.05-03.09.26:361][ 11]LogAssetRegistry: Asset discovery search completed in 58.2580 seconds
+[2020.11.05-03.09.26:366][ 11]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000009 seconds (updated 0 objects)
+[2020.11.05-03.27.17:427][681]LogSlate: Window 'Project Settings' being destroyed
+[2020.11.05-03.27.20:812][710]LogSlate: Took 0.000515 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.05-03.27.20:846][710]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Robo/Characters/Demon/Human_Template2.Human_Template2
+[2020.11.05-03.27.23:496][710]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2020.11.05-03.27.29:760][710]LogSlate: Took 0.008957 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.11.05-03.27.31:177][711]LogSlate: Took 0.015858 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.11.05-03.28.57:163][141]BlueprintLog: New page: Compile Human_Template2
+[2020.11.05-03.28.59:126][141]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2020.11.05-03.29.04:046][179]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Human_Template2EF6CF7CB4D2FFA772E2BBCB166CB8EE0.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Content/Robo/Characters/Demon/Human_Template2.uasset'
+[2020.11.05-03.29.04:199][179]AssetCheck: New page: Asset Save: Human_Template2
+[2020.11.05-03.29.04:199][179]LogContentValidation: Display: Validating Blueprint /Game/Robo/Characters/Demon/Human_Template2.Human_Template2
+[2020.11.05-03.35.47:608][446]BlueprintLog: New page: Compile Human_Template2
+[2020.11.05-03.35.47:957][446]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.11.05-03.35.48:869][473]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Human_Template2AF3F42C4422DBEAEB0656187662D0853.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Content/Robo/Characters/Demon/Human_Template2.uasset'
+[2020.11.05-03.35.48:889][473]AssetCheck: New page: Asset Save: Human_Template2
+[2020.11.05-03.35.48:889][473]LogContentValidation: Display: Validating Blueprint /Game/Robo/Characters/Demon/Human_Template2.Human_Template2
+[2020.11.05-03.35.52:968][747]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.05-03.35.53:159][747]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.05-03.35.53:227][747]PIE: New page: PIE session: TestLeve (5 nov 2020, 21:35:53)
+[2020.11.05-03.35.53:238][747]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.11.05-03.35.53:307][747]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.11.05-03.35.53:351][747]LogPlayLevel: Creating play world package: /Game/Robo/Scenes/UEDPIE_0_TestLeve
+[2020.11.05-03.35.53:671][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.320350s)
+[2020.11.05-03.35.53:686][747]LogAIModule: Creating AISystem for world TestLeve
+[2020.11.05-03.35.53:692][747]LogPlayLevel: PIE: World Init took: (0.020646s)
+[2020.11.05-03.35.53:705][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Robo/Scenes/TestLeve.TestLeve to /Game/Robo/Scenes/UEDPIE_0_TestLeve.TestLeve (0.354377s)
+[2020.11.05-03.35.53:748][747]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.11.05-03.35.53:838][747]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.05-03.35.53:838][747]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.05-03.35.53:838][747]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.05-03.35.53:838][747]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.05-03.35.53:838][747]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.05-03.35.53:838][747]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.05-03.35.53:838][747]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.05-03.35.53:838][747]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.05-03.35.53:839][747]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.05-03.35.53:839][747]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.05-03.35.53:848][747]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.05-03.35.53:848][747]LogAudioMixer: Display: Name: Cassa/Cuffie (Realtek High Definition Audio)
+[2020.11.05-03.35.53:848][747]LogAudioMixer: Display: Is Default: Yes
+[2020.11.05-03.35.53:848][747]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.05-03.35.53:848][747]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.05-03.35.53:848][747]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.05-03.35.53:848][747]LogAudioMixer: Display: Channel Order:
+[2020.11.05-03.35.53:848][747]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.05-03.35.53:848][747]LogAudioMixer: Display: 1: FrontRight
+[2020.11.05-03.35.53:885][747]LogAudioMixer: Display: Using Audio Device Cassa/Cuffie (Realtek High Definition Audio)
+[2020.11.05-03.35.53:887][747]LogInit: FAudioDevice initialized.
+[2020.11.05-03.35.53:964][747]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.11.05-03.35.54:143][747]LogWorld: Bringing World /Game/Robo/Scenes/UEDPIE_0_TestLeve.TestLeve up for play (max tick rate 0) at 2020.11.05-12.35.54
+[2020.11.05-03.35.54:334][747]LogWorld: Bringing up level for play took: 0.193326
+[2020.11.05-03.35.54:402][747]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.11.05-03.35.54:662][747]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.11.05-03.35.55:367][747]PIE: Play in editor start time for /Game/Robo/Scenes/UEDPIE_0_TestLeve 3,244
+[2020.11.05-03.36.19:886][842]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.05-03.36.19:887][842]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.05-03.36.19:936][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-03.36.19:936][842]LogWorld: BeginTearingDown for /Game/Robo/Scenes/UEDPIE_0_TestLeve
+[2020.11.05-03.36.19:980][842]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.05-03.36.19:980][842]LogWorld: UWorld::CleanupWorld for TestLeve, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-03.36.20:027][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-03.36.20:127][842]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.05-03.36.20:153][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-03.36.20:206][842]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.05-03.36.20:221][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-03.36.20:284][842]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2020.11.05-03.36.20:404][843]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.11.05-03.36.58:389][583]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2020.11.05-03.36.58:957][583]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/TestLeve_Auto11C6EA1DA4760F6EC70A1FA9D18AE48EF.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Autosaves/Game/Robo/Scenes/TestLeve_Auto1.umap'
+[2020.11.05-03.36.58:962][583]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Robo/Scenes/TestLeve' took 0.625
+[2020.11.05-03.36.58:962][583]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.625
+[2020.11.05-03.36.58:978][583]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Robo/Characters/Demon/Human_Template2] ([1] browsable assets)...
+[2020.11.05-03.36.58:978][583]OBJ SavePackage: Finished generating thumbnails for package [/Game/Robo/Characters/Demon/Human_Template2]
+[2020.11.05-03.36.59:196][583]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Human_Template2_Auto18FCDCCC04DCC0128893A7B93EF9A3250.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Autosaves/Game/Robo/Characters/Demon/Human_Template2_Auto1.uasset'
+[2020.11.05-03.36.59:230][583]LogFileHelpers: Auto-saving content packages took 0.268
+[2020.11.05-03.46.04:681][938]BlueprintLog: New page: Compile Human_Template2
+[2020.11.05-03.46.04:735][938]LogBlueprint: Error: [Compiler Human_Template2] The current value (ObjectTypeQuery1) of the ' Object Types ' pin is invalid: Array inputs (like 'Object Types') must have an input wired into them (try connecting a MakeArray node).
+[2020.11.05-03.46.05:088][938]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2020.11.05-03.46.05:976][961]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Human_Template21D20231D426B9D962A6D0EB5513C68B3.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Content/Robo/Characters/Demon/Human_Template2.uasset'
+[2020.11.05-03.46.06:000][961]AssetCheck: New page: Asset Save: Human_Template2
+[2020.11.05-03.46.06:000][961]LogContentValidation: Display: Validating Blueprint /Game/Robo/Characters/Demon/Human_Template2.Human_Template2
+[2020.11.05-03.47.05:743][851]LogUObjectHash: Compacting FUObjectHashTables data took   7.45ms
+[2020.11.05-03.47.06:087][851]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/TestLeve_Auto250AAAC7242C198299EC929AAF277BB3A.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Autosaves/Game/Robo/Scenes/TestLeve_Auto2.umap'
+[2020.11.05-03.47.06:091][851]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Robo/Scenes/TestLeve' took 0.410
+[2020.11.05-03.47.06:091][851]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.410
+[2020.11.05-03.47.06:092][851]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Robo/Characters/Demon/Human_Template2] ([1] browsable assets)...
+[2020.11.05-03.47.06:162][851]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Robo/Characters/Demon/Human_Template2.Human_Template2]
+[2020.11.05-03.47.06:163][851]OBJ SavePackage: Finished generating thumbnails for package [/Game/Robo/Characters/Demon/Human_Template2]
+[2020.11.05-03.47.06:435][851]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Human_Template2_Auto210289FEB452D2795950798B42BDC545E.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Autosaves/Game/Robo/Characters/Demon/Human_Template2_Auto2.uasset'
+[2020.11.05-03.47.06:439][851]LogFileHelpers: Auto-saving content packages took 0.348
+[2020.11.05-03.47.09:462][989]BlueprintLog: New page: Compile Human_Template2
+[2020.11.05-03.47.10:055][989]LogUObjectHash: Compacting FUObjectHashTables data took   7.80ms
+[2020.11.05-03.47.11:791][ 28]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Human_Template2660D8BB0480180AE100D9FB56E3D1A94.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Content/Robo/Characters/Demon/Human_Template2.uasset'
+[2020.11.05-03.47.11:820][ 28]AssetCheck: New page: Asset Save: Human_Template2
+[2020.11.05-03.47.11:820][ 28]LogContentValidation: Display: Validating Blueprint /Game/Robo/Characters/Demon/Human_Template2.Human_Template2
+[2020.11.05-03.47.44:352][984]BlueprintLog: New page: Compile Human_Template2
+[2020.11.05-03.47.44:769][984]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2020.11.05-03.47.45:788][ 15]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Human_Template2887A388E4B976B3E5840F8A3F1B52E70.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Content/Robo/Characters/Demon/Human_Template2.uasset'
+[2020.11.05-03.47.45:809][ 15]AssetCheck: New page: Asset Save: Human_Template2
+[2020.11.05-03.47.45:810][ 15]LogContentValidation: Display: Validating Blueprint /Game/Robo/Characters/Demon/Human_Template2.Human_Template2
+[2020.11.05-03.52.38:660][234]BlueprintLog: New page: Compile Human_Template2
+[2020.11.05-03.52.39:091][234]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2020.11.05-03.52.39:991][258]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Human_Template26FE15BE9424C77F6E162AD92A8FADE80.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Content/Robo/Characters/Demon/Human_Template2.uasset'
+[2020.11.05-03.52.40:016][258]AssetCheck: New page: Asset Save: Human_Template2
+[2020.11.05-03.52.40:016][258]LogContentValidation: Display: Validating Blueprint /Game/Robo/Characters/Demon/Human_Template2.Human_Template2
+[2020.11.05-03.55.39:277][617]BlueprintLog: New page: Compile Human_Template2
+[2020.11.05-03.55.39:730][617]LogUObjectHash: Compacting FUObjectHashTables data took   8.47ms
+[2020.11.05-03.55.40:648][639]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Human_Template261C2F22C4F4A49D9D308FB902AD4598F.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Content/Robo/Characters/Demon/Human_Template2.uasset'
+[2020.11.05-03.55.40:669][639]AssetCheck: New page: Asset Save: Human_Template2
+[2020.11.05-03.55.40:669][639]LogContentValidation: Display: Validating Blueprint /Game/Robo/Characters/Demon/Human_Template2.Human_Template2
+[2020.11.05-03.57.06:911][386]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2020.11.05-03.57.07:325][386]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/TestLeve_Auto31D81CBE34971A2D9D705A19A62FCD3E4.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Autosaves/Game/Robo/Scenes/TestLeve_Auto3.umap'
+[2020.11.05-03.57.07:330][386]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Robo/Scenes/TestLeve' took 0.474
+[2020.11.05-03.57.07:330][386]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.474
+[2020.11.05-03.57.07:330][386]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Robo/Characters/Demon/Human_Template2] ([1] browsable assets)...
+[2020.11.05-03.57.07:405][386]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Robo/Characters/Demon/Human_Template2.Human_Template2]
+[2020.11.05-03.57.07:405][386]OBJ SavePackage: Finished generating thumbnails for package [/Game/Robo/Characters/Demon/Human_Template2]
+[2020.11.05-03.57.07:667][386]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Human_Template2_Auto3E6F33F0940725F1825D404A9804A8CA4.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Autosaves/Game/Robo/Characters/Demon/Human_Template2_Auto3.uasset'
+[2020.11.05-03.57.07:671][386]LogFileHelpers: Auto-saving content packages took 0.341
+[2020.11.05-03.57.48:721][ 58]BlueprintLog: New page: Compile Human_Template2
+[2020.11.05-03.57.49:151][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2020.11.05-03.57.50:258][ 95]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Human_Template2725A027E42A8242C13C926823822CBDE.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Content/Robo/Characters/Demon/Human_Template2.uasset'
+[2020.11.05-03.57.50:280][ 95]AssetCheck: New page: Asset Save: Human_Template2
+[2020.11.05-03.57.50:280][ 95]LogContentValidation: Display: Validating Blueprint /Game/Robo/Characters/Demon/Human_Template2.Human_Template2
+[2020.11.05-03.57.55:401][379]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.05-03.57.55:439][379]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.05-03.57.55:440][379]PIE: New page: PIE session: TestLeve (5 nov 2020, 21:57:55)
+[2020.11.05-03.57.55:440][379]LogPlayLevel: Creating play world package: /Game/Robo/Scenes/UEDPIE_0_TestLeve
+[2020.11.05-03.57.55:588][379]LogPlayLevel: PIE: StaticDuplicateObject took: (0.148492s)
+[2020.11.05-03.57.55:590][379]LogAIModule: Creating AISystem for world TestLeve
+[2020.11.05-03.57.55:591][379]LogPlayLevel: PIE: World Init took: (0.001979s)
+[2020.11.05-03.57.55:591][379]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Robo/Scenes/TestLeve.TestLeve to /Game/Robo/Scenes/UEDPIE_0_TestLeve.TestLeve (0.151050s)
+[2020.11.05-03.57.55:643][379]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2020.11.05-03.57.55:645][379]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.05-03.57.55:645][379]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.05-03.57.55:645][379]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.05-03.57.55:645][379]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.05-03.57.55:645][379]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.05-03.57.55:645][379]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.05-03.57.55:645][379]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.05-03.57.55:645][379]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.05-03.57.55:646][379]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.05-03.57.55:646][379]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.05-03.57.55:654][379]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.05-03.57.55:654][379]LogAudioMixer: Display: Name: Cassa/Cuffie (Realtek High Definition Audio)
+[2020.11.05-03.57.55:654][379]LogAudioMixer: Display: Is Default: Yes
+[2020.11.05-03.57.55:655][379]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.05-03.57.55:655][379]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.05-03.57.55:655][379]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.05-03.57.55:655][379]LogAudioMixer: Display: Channel Order:
+[2020.11.05-03.57.55:655][379]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.05-03.57.55:655][379]LogAudioMixer: Display: 1: FrontRight
+[2020.11.05-03.57.55:688][379]LogAudioMixer: Display: Using Audio Device Cassa/Cuffie (Realtek High Definition Audio)
+[2020.11.05-03.57.55:690][379]LogInit: FAudioDevice initialized.
+[2020.11.05-03.57.55:735][379]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.11.05-03.57.55:740][379]LogWorld: Bringing World /Game/Robo/Scenes/UEDPIE_0_TestLeve.TestLeve up for play (max tick rate 0) at 2020.11.05-12.57.55
+[2020.11.05-03.57.55:740][379]LogWorld: Bringing up level for play took: 0.005024
+[2020.11.05-03.57.55:763][379]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.11.05-03.57.55:767][379]PIE: Play in editor start time for /Game/Robo/Scenes/UEDPIE_0_TestLeve -0,355
+[2020.11.05-03.58.26:468][ 30]PIE: Warning: PlayerBP_C_0.CollisionCylinder has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.11.05-03.58.40:670][280]PIE: Warning: PlayerBP_C_0.CollisionCylinder has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.11.05-03.58.43:050][495]PIE: Warning: PlayerBP_C_0.CollisionCylinder has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.11.05-03.58.45:727][736]PIE: Warning: PlayerBP_C_0.CollisionCylinder has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.11.05-03.58.46:483][800]PIE: Warning: PlayerBP_C_0.CollisionCylinder has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.11.05-03.58.47:185][864]PIE: Warning: PlayerBP_C_0.CollisionCylinder has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.11.05-03.58.47:840][923]PIE: Warning: PlayerBP_C_0.CollisionCylinder has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.11.05-03.58.48:510][984]PIE: Warning: PlayerBP_C_0.CollisionCylinder has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.11.05-03.58.52:925][365]PIE: Warning: PlayerBP_C_0.CollisionCylinder has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.11.05-03.58.53:582][420]PIE: Warning: PlayerBP_C_0.CollisionCylinder has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.11.05-03.58.54:190][476]PIE: Warning: PlayerBP_C_0.CollisionCylinder has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.11.05-03.58.55:103][559]PIE: Warning: PlayerBP_C_0.CollisionCylinder has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.11.05-03.58.55:889][631]PIE: Warning: PlayerBP_C_0.CollisionCylinder has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.11.05-03.58.56:500][686]PIE: Warning: PlayerBP_C_0.CollisionCylinder has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2020.11.05-03.58.58:037][825]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.05-03.58.58:037][825]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.05-03.58.58:038][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-03.58.58:038][825]LogWorld: BeginTearingDown for /Game/Robo/Scenes/UEDPIE_0_TestLeve
+[2020.11.05-03.58.58:038][825]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.05-03.58.58:038][825]LogWorld: UWorld::CleanupWorld for TestLeve, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-03.58.58:039][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-03.58.58:053][825]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.05-03.58.58:062][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-03.58.58:105][825]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.05-03.58.58:110][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-03.58.58:119][825]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.11.05-03.58.58:320][826]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.11.05-03.59.01:787][ 49]LogSlate: Window 'Message Log' being destroyed
+[2020.11.05-03.59.01:799][ 49]LogSlate: Window 'Message Log' being destroyed
+[2020.11.05-04.07.39:721][801]BlueprintLog: New page: Compile Human_Template2
+[2020.11.05-04.07.40:150][801]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2020.11.05-04.07.41:109][829]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Human_Template2B8AFE9F74B8AF0A260E0BAA43C2ECB85.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Content/Robo/Characters/Demon/Human_Template2.uasset'
+[2020.11.05-04.07.41:132][829]AssetCheck: New page: Asset Save: Human_Template2
+[2020.11.05-04.07.41:132][829]LogContentValidation: Display: Validating Blueprint /Game/Robo/Characters/Demon/Human_Template2.Human_Template2
+[2020.11.05-04.07.44:644][ 41]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.05-04.07.44:679][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.05-04.07.44:679][ 41]PIE: New page: PIE session: TestLeve (5 nov 2020, 22:07:44)
+[2020.11.05-04.07.44:679][ 41]LogPlayLevel: Creating play world package: /Game/Robo/Scenes/UEDPIE_0_TestLeve
+[2020.11.05-04.07.44:831][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.151387s)
+[2020.11.05-04.07.44:833][ 41]LogAIModule: Creating AISystem for world TestLeve
+[2020.11.05-04.07.44:834][ 41]LogPlayLevel: PIE: World Init took: (0.002684s)
+[2020.11.05-04.07.44:834][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Robo/Scenes/TestLeve.TestLeve to /Game/Robo/Scenes/UEDPIE_0_TestLeve.TestLeve (0.154617s)
+[2020.11.05-04.07.44:886][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2020.11.05-04.07.44:886][ 41]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.05-04.07.44:886][ 41]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.05-04.07.44:887][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.05-04.07.44:887][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.05-04.07.44:887][ 41]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.05-04.07.44:887][ 41]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.05-04.07.44:887][ 41]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.05-04.07.44:887][ 41]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.05-04.07.44:887][ 41]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.05-04.07.44:887][ 41]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.05-04.07.44:896][ 41]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.05-04.07.44:896][ 41]LogAudioMixer: Display: Name: Cassa/Cuffie (Realtek High Definition Audio)
+[2020.11.05-04.07.44:896][ 41]LogAudioMixer: Display: Is Default: Yes
+[2020.11.05-04.07.44:896][ 41]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.05-04.07.44:896][ 41]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.05-04.07.44:896][ 41]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.05-04.07.44:896][ 41]LogAudioMixer: Display: Channel Order:
+[2020.11.05-04.07.44:896][ 41]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.05-04.07.44:896][ 41]LogAudioMixer: Display: 1: FrontRight
+[2020.11.05-04.07.44:928][ 41]LogAudioMixer: Display: Using Audio Device Cassa/Cuffie (Realtek High Definition Audio)
+[2020.11.05-04.07.44:931][ 41]LogInit: FAudioDevice initialized.
+[2020.11.05-04.07.44:939][ 41]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.11.05-04.07.44:944][ 41]LogWorld: Bringing World /Game/Robo/Scenes/UEDPIE_0_TestLeve.TestLeve up for play (max tick rate 0) at 2020.11.05-13.07.44
+[2020.11.05-04.07.44:944][ 41]LogWorld: Bringing up level for play took: 0.004925
+[2020.11.05-04.07.44:969][ 41]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.11.05-04.07.44:974][ 41]PIE: Play in editor start time for /Game/Robo/Scenes/UEDPIE_0_TestLeve 0,851
+[2020.11.05-04.08.03:630][661]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.05-04.08.03:630][661]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.05-04.08.03:631][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-04.08.03:631][661]LogWorld: BeginTearingDown for /Game/Robo/Scenes/UEDPIE_0_TestLeve
+[2020.11.05-04.08.03:631][661]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.05-04.08.03:631][661]LogWorld: UWorld::CleanupWorld for TestLeve, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-04.08.03:634][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-04.08.03:649][661]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.05-04.08.03:657][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-04.08.03:699][661]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.05-04.08.03:704][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-04.08.03:712][661]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.11.05-04.08.03:737][662]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.11.05-04.08.29:746][871]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.11.05-04.08.30:100][871]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/TestLeve_Auto4BBBCD25C4EB5757D992225A09EEB812D.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Autosaves/Game/Robo/Scenes/TestLeve_Auto4.umap'
+[2020.11.05-04.08.30:104][871]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Robo/Scenes/TestLeve' took 0.405
+[2020.11.05-04.08.30:104][871]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.405
+[2020.11.05-04.26.51:739][183]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Robo/Characters/Demon/Enemy1.Enemy1
+[2020.11.05-04.27.51:363][128]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.11.05-04.27.51:364][128]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Robo/Scenes/TestLeve' took 0.112
+[2020.11.05-04.27.51:365][128]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Robo/Characters/Demon/Enemy1] ([1] browsable assets)...
+[2020.11.05-04.27.51:437][128]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Robo/Characters/Demon/Enemy1.Enemy1]
+[2020.11.05-04.27.51:437][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/Robo/Characters/Demon/Enemy1]
+[2020.11.05-04.27.51:576][128]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Enemy1_Auto5FB804C474CF66C8F9F70028054E6F4A3.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Autosaves/Game/Robo/Characters/Demon/Enemy1_Auto5.uasset'
+[2020.11.05-04.27.51:595][128]LogFileHelpers: Auto-saving content packages took 0.230
+[2020.11.05-04.28.29:985][897]BlueprintLog: New page: Compile Human_Template2
+[2020.11.05-04.28.30:443][897]LogUObjectHash: Compacting FUObjectHashTables data took   6.33ms
+[2020.11.05-04.28.31:375][920]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Human_Template2AE945A4E4DCEDEA22142679F4C1AA58E.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Content/Robo/Characters/Demon/Human_Template2.uasset'
+[2020.11.05-04.28.31:401][920]AssetCheck: New page: Asset Save: Human_Template2
+[2020.11.05-04.28.31:401][920]LogContentValidation: Display: Validating Blueprint /Game/Robo/Characters/Demon/Human_Template2.Human_Template2
+[2020.11.05-04.28.35:797][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robo/Characters/Demon/Enemy1" FILE="../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Content/Robo/Characters/Demon/Enemy1.uasset" SILENT=true
+[2020.11.05-04.28.35:909][119]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Enemy18ABFC1C84C7EE3FA90907E8CDEE27145.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Content/Robo/Characters/Demon/Enemy1.uasset'
+[2020.11.05-04.28.35:930][119]AssetCheck: New page: Asset Save: Enemy1
+[2020.11.05-04.28.35:930][119]LogContentValidation: Display: Validating Blueprint /Game/Robo/Characters/Demon/Enemy1.Enemy1
+[2020.11.05-04.29.10:358][793]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.05-04.29.10:398][793]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.05-04.29.10:398][793]PIE: New page: PIE session: TestLeve (5 nov 2020, 22:29:10)
+[2020.11.05-04.29.10:398][793]LogPlayLevel: Creating play world package: /Game/Robo/Scenes/UEDPIE_0_TestLeve
+[2020.11.05-04.29.10:552][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.153450s)
+[2020.11.05-04.29.10:554][793]LogAIModule: Creating AISystem for world TestLeve
+[2020.11.05-04.29.10:555][793]LogPlayLevel: PIE: World Init took: (0.002729s)
+[2020.11.05-04.29.10:555][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Robo/Scenes/TestLeve.TestLeve to /Game/Robo/Scenes/UEDPIE_0_TestLeve.TestLeve (0.156489s)
+[2020.11.05-04.29.10:613][793]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
+[2020.11.05-04.29.10:615][793]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.05-04.29.10:615][793]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.05-04.29.10:615][793]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.05-04.29.10:615][793]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.05-04.29.10:615][793]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.05-04.29.10:616][793]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.05-04.29.10:616][793]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.05-04.29.10:616][793]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.05-04.29.10:616][793]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.05-04.29.10:616][793]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.05-04.29.10:625][793]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.05-04.29.10:625][793]LogAudioMixer: Display: Name: Cassa/Cuffie (Realtek High Definition Audio)
+[2020.11.05-04.29.10:625][793]LogAudioMixer: Display: Is Default: Yes
+[2020.11.05-04.29.10:625][793]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.05-04.29.10:625][793]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.05-04.29.10:625][793]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.05-04.29.10:625][793]LogAudioMixer: Display: Channel Order:
+[2020.11.05-04.29.10:625][793]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.05-04.29.10:625][793]LogAudioMixer: Display: 1: FrontRight
+[2020.11.05-04.29.10:657][793]LogAudioMixer: Display: Using Audio Device Cassa/Cuffie (Realtek High Definition Audio)
+[2020.11.05-04.29.10:660][793]LogInit: FAudioDevice initialized.
+[2020.11.05-04.29.10:671][793]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.11.05-04.29.10:677][793]LogWorld: Bringing World /Game/Robo/Scenes/UEDPIE_0_TestLeve.TestLeve up for play (max tick rate 0) at 2020.11.05-13.29.10
+[2020.11.05-04.29.10:678][793]LogWorld: Bringing up level for play took: 0.006342
+[2020.11.05-04.29.10:705][793]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.11.05-04.29.10:710][793]PIE: Play in editor start time for /Game/Robo/Scenes/UEDPIE_0_TestLeve 0,588
+[2020.11.05-04.29.30:093][609]LogHttp: Warning: 000002BDB842B740: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA196CAF-420E-127F-E35B-A7B140B965BA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=30588e9046ac598dbb3a1cb2295c2160%7C3deaba15b3ca4fd4a800581aacd591f6%7C35f3395d-6203-4118-8ff4-c9328ad3045e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.11.05-04.29.30:093][609]LogHttp: Warning: 000002BDB842B740: request failed, libcurl error: 0 (No error)
+[2020.11.05-04.29.30:093][609]LogHttp: Warning: 000002BDB842B740: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2bd4597ff70 [can pipeline])
+[2020.11.05-04.29.30:093][609]LogHttp: Warning: 000002BDB842B740: libcurl info message cache 1 (Re-using existing connection! (#24) with host datarouter.ol.epicgames.com)
+[2020.11.05-04.29.30:093][609]LogHttp: Warning: 000002BDB842B740: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.87.71.10) port 443 (#24))
+[2020.11.05-04.29.30:093][609]LogHttp: Warning: 000002BDB842B740: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.11.05-04.29.30:093][609]LogHttp: Warning: 000002BDB842B740: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.11.05-04.29.30:093][609]LogHttp: Warning: 000002BDB842B740: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.11.05-04.29.30:093][609]LogHttp: Warning: 000002BDB842B740: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.11.05-04.29.30:093][609]LogHttp: Warning: 000002BDB842B740: libcurl info message cache 7 (Closing connection 24)
+[2020.11.05-04.29.30:093][609]LogHttp: Warning: 000002BDB842B740: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.11.05-04.29.30:103][610]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA196CAF-420E-127F-E35B-A7B140B965BA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=30588e9046ac598dbb3a1cb2295c2160%7C3deaba15b3ca4fd4a800581aacd591f6%7C35f3395d-6203-4118-8ff4-c9328ad3045e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.11.05-04.29.40:447][567]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.05-04.29.40:447][567]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.05-04.29.40:448][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-04.29.40:448][567]LogWorld: BeginTearingDown for /Game/Robo/Scenes/UEDPIE_0_TestLeve
+[2020.11.05-04.29.40:448][567]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.05-04.29.40:449][567]LogWorld: UWorld::CleanupWorld for TestLeve, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-04.29.40:450][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-04.29.40:468][567]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.05-04.29.40:474][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-04.29.40:518][567]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.05-04.29.40:523][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-04.29.40:532][567]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2020.11.05-04.29.40:555][568]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.11.05-04.38.22:182][222]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.11.05-04.38.22:764][222]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/TestLeve_Auto6F6A6F33D472B63FB81623EB66B1ECFFD.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Autosaves/Game/Robo/Scenes/TestLeve_Auto6.umap'
+[2020.11.05-04.38.22:774][222]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Robo/Scenes/TestLeve' took 0.665
+[2020.11.05-04.38.22:774][222]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.665
+[2020.11.05-05.46.16:837][984]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Robo/Characters/CharacterInterface.CharacterInterface
+[2020.11.05-05.46.46:711][620]LogSlate: Took 0.015000 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.11.05-05.46.58:911][276]BlueprintLog: New page: Compile CharacterInterface
+[2020.11.05-05.46.59:224][276]LogUObjectHash: Compacting FUObjectHashTables data took   9.98ms
+[2020.11.05-05.47.00:001][297]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/CharacterInterface3A6C7CF34D4C26E31D69C1812BEEBD2A.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Content/Robo/Characters/CharacterInterface.uasset'
+[2020.11.05-05.47.00:029][297]AssetCheck: New page: Asset Save: CharacterInterface
+[2020.11.05-05.47.00:029][297]LogContentValidation: Display: Validating Blueprint /Game/Robo/Characters/CharacterInterface.CharacterInterface
+[2020.11.05-05.47.01:760][387]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-05.47.01:760][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-05.47.27:513][580]LogUObjectHash: Compacting FUObjectHashTables data took   7.37ms
+[2020.11.05-05.47.27:901][580]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/TestLeve_Auto7D7A8C1FB48E3E4D56C16E8AE7BFF312F.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Autosaves/Game/Robo/Scenes/TestLeve_Auto7.umap'
+[2020.11.05-05.47.27:905][580]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Robo/Scenes/TestLeve' took 0.457
+[2020.11.05-05.47.27:905][580]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.457
+[2020.11.05-05.49.49:036][623]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-05.49.49:036][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-05.51.42:586][230]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Robo/Characters/CharacterInterface.CharacterInterface
+[2020.11.05-05.51.56:563][962]BlueprintLog: New page: Compile CharacterInterface
+[2020.11.05-05.51.56:652][962]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2020.11.05-05.51.57:477][991]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/CharacterInterface4FB520554004906B0BF3CF94BD2BE2D6.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Content/Robo/Characters/CharacterInterface.uasset'
+[2020.11.05-05.51.57:498][991]AssetCheck: New page: Asset Save: CharacterInterface
+[2020.11.05-05.51.57:498][991]LogContentValidation: Display: Validating Blueprint /Game/Robo/Characters/CharacterInterface.CharacterInterface
+[2020.11.05-05.51.58:466][ 37]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-05.51.58:466][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-05.54.50:074][  9]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.11.05-05.54.52:988][109]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.11.05-05.54.53:000][109]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.11.05-05.56.05:367][325]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Robo/Characters/CharacterInterface.CharacterInterface
+[2020.11.05-05.56.17:333][936]BlueprintLog: New page: Compile CharacterInterface
+[2020.11.05-05.56.17:430][936]LogUObjectHash: Compacting FUObjectHashTables data took   6.74ms
+[2020.11.05-05.56.18:239][971]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/CharacterInterfaceAC3236F846099998E75CA58F255711B4.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Content/Robo/Characters/CharacterInterface.uasset'
+[2020.11.05-05.56.18:261][971]AssetCheck: New page: Asset Save: CharacterInterface
+[2020.11.05-05.56.18:262][971]LogContentValidation: Display: Validating Blueprint /Game/Robo/Characters/CharacterInterface.CharacterInterface
+[2020.11.05-05.56.24:790][275]BlueprintLog: New page: Compile Human_Template2
+[2020.11.05-05.56.24:862][275]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.11.05-05.56.29:159][275]LogStats: FPlatformStackWalk::StackWalkAndDump -  4.297 s
+[2020.11.05-05.56.29:159][275]LogOutputDevice: Error: === Handled ensure: ===
+[2020.11.05-05.56.29:159][275]LogOutputDevice: Error: 
+[2020.11.05-05.56.29:160][275]LogOutputDevice: Error: Ensure condition failed: !ExistingGraph [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/BlueprintEditorUtils.cpp] [Line: 2241]
+[2020.11.05-05.56.29:160][275]LogOutputDevice: Error: Graph GetClosestEnemy already exists: EdGraph /Game/Robo/Characters/Demon/Human_Template2.Human_Template2:GetClosestEnemy
+[2020.11.05-05.56.29:160][275]LogOutputDevice: Error: Stack: 
+[2020.11.05-05.56.29:160][275]LogOutputDevice: Error: [Callstack] 0x00007ff8d4a134f9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.05-05.56.29:160][275]LogOutputDevice: Error: [Callstack] 0x00007ff8d419d179 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.05-05.56.29:160][275]LogOutputDevice: Error: [Callstack] 0x00007ff8d4197829 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.05-05.56.29:160][275]LogOutputDevice: Error: [Callstack] 0x00007ff8d4196416 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.05-05.56.29:160][275]LogOutputDevice: Error: [Callstack] 0x00007ff8cdeadd14 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2020.11.05-05.56.29:160][275]LogOutputDevice: Error: [Callstack] 0x00007ff8d31a3e16 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.11.05-05.56.29:160][275]LogOutputDevice: Error: [Callstack] 0x00007ff8d3150f72 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.11.05-05.56.29:160][275]LogOutputDevice: Error: [Callstack] 0x00007ff8d3150d04 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.11.05-05.56.29:160][275]LogOutputDevice: Error: [Callstack] 0x00007ff8d42132f8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.05-05.56.29:160][275]LogOutputDevice: Error: [Callstack] 0x00007ff8d32468fd UE4Editor-Kismet.dll!UnknownFunction []
+[2020.11.05-05.56.29:160][275]LogOutputDevice: Error: [Callstack] 0x00007ff8d32625c8 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.11.05-05.56.29:160][275]LogOutputDevice: Error: [Callstack] 0x00007ff8e7496c6a UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.05-05.56.29:160][275]LogOutputDevice: Error: [Callstack] 0x00007ff8e7572b22 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.05-05.56.29:160][275]LogOutputDevice: Error: [Callstack] 0x00007ff8e7552074 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.05-05.56.29:160][275]LogOutputDevice: Error: [Callstack] 0x00007ff8e75e1498 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.05-05.56.29:160][275]LogOutputDevice: Error: [Callstack] 0x00007ff8e75f9281 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.05-05.56.29:160][275]LogOutputDevice: Error: [Callstack] 0x00007ff8e745323f UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.05-05.56.29:160][275]LogOutputDevice: Error: [Callstack] 0x00007ff8e74d9175 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.05-05.56.29:160][275]LogOutputDevice: Error: [Callstack] 0x00007ff8e74c413e UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.05-05.56.29:160][275]LogOutputDevice: Error: [Callstack] 0x00007ff8e74b8f67 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.05-05.56.29:161][275]LogOutputDevice: Error: [Callstack] 0x00007ff8f4394ca1 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.05-05.56.29:161][275]LogOutputDevice: Error: [Callstack] 0x00007ff8f438242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.05-05.56.29:161][275]LogOutputDevice: Error: [Callstack] 0x00007ff8f4397195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.05-05.56.29:161][275]LogOutputDevice: Error: [Callstack] 0x00007ff8f437ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.05-05.56.29:161][275]LogOutputDevice: Error: [Callstack] 0x00007ff944c2e6d8 USER32.dll!UnknownFunction []
+[2020.11.05-05.56.29:161][275]LogOutputDevice: Error: [Callstack] 0x00007ff944c2e119 USER32.dll!UnknownFunction []
+[2020.11.05-05.56.29:161][275]LogOutputDevice: Error: [Callstack] 0x00007ff8f4398699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.05-05.56.29:161][275]LogOutputDevice: Error: [Callstack] 0x00007ff658306db0 UE4Editor.exe!UnknownFunction []
+[2020.11.05-05.56.29:161][275]LogOutputDevice: Error: [Callstack] 0x00007ff65831c3ec UE4Editor.exe!UnknownFunction []
+[2020.11.05-05.56.29:161][275]LogOutputDevice: Error: [Callstack] 0x00007ff65831c4ca UE4Editor.exe!UnknownFunction []
+[2020.11.05-05.56.29:161][275]LogOutputDevice: Error: [Callstack] 0x00007ff65832ceae UE4Editor.exe!UnknownFunction []
+[2020.11.05-05.56.29:161][275]LogOutputDevice: Error: [Callstack] 0x00007ff65832fcbe UE4Editor.exe!UnknownFunction []
+[2020.11.05-05.56.29:161][275]LogOutputDevice: Error: [Callstack] 0x00007ff9456a7034 KERNEL32.DLL!UnknownFunction []
+[2020.11.05-05.56.29:161][275]LogOutputDevice: Error: [Callstack] 0x00007ff94667cec1 ntdll.dll!UnknownFunction []
+[2020.11.05-05.56.29:161][275]LogOutputDevice: Error: 
+[2020.11.05-05.56.29:168][275]LogStats:                SubmitErrorReport -  0.000 s
+[2020.11.05-05.56.54:117][275]LogStats:                    SendNewReport - 24.949 s
+[2020.11.05-05.56.54:117][275]LogStats:             FDebug::EnsureFailed - 29.255 s
+[2020.11.05-05.56.54:403][275]LogBlueprint: Warning: [Compiler Human_Template2] Set cloasestEnemy  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2020.11.05-05.56.54:486][275]LogBlueprint: Error: [Compiler Human_Template2] Found more than one function with the same name GetClosestEnemy; second occurance at  Get Closest Enemy
+[2020.11.05-05.56.55:123][275]LogUObjectHash: Compacting FUObjectHashTables data took   8.99ms
+[2020.11.05-05.57.01:769][414]LogRenderer: Reallocating scene render targets to support 772x404 Format 10 NumSamples 1 (Frame:1).
+[2020.11.05-05.57.33:420][792]LogUObjectHash: Compacting FUObjectHashTables data took   9.86ms
+[2020.11.05-05.57.33:992][792]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/TestLeve_Auto877F660154419CEE4940498931C354EF3.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Autosaves/Game/Robo/Scenes/TestLeve_Auto8.umap'
+[2020.11.05-05.57.34:015][792]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Robo/Scenes/TestLeve' took 0.704
+[2020.11.05-05.57.34:015][792]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.704
+[2020.11.05-05.57.34:016][792]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Robo/Characters/Demon/Enemy1] ([1] browsable assets)...
+[2020.11.05-05.57.34:126][792]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Robo/Characters/Demon/Enemy1.Enemy1]
+[2020.11.05-05.57.34:126][792]OBJ SavePackage: Finished generating thumbnails for package [/Game/Robo/Characters/Demon/Enemy1]
+[2020.11.05-05.57.34:312][792]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Enemy1_Auto83E4802654BE844BF9DC301965EFF81D8.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Autosaves/Game/Robo/Characters/Demon/Enemy1_Auto8.uasset'
+[2020.11.05-05.57.34:317][792]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Robo/Characters/Demon/Human_Template2] ([1] browsable assets)...
+[2020.11.05-05.57.34:392][792]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Robo/Characters/Demon/Human_Template2.Human_Template2]
+[2020.11.05-05.57.34:392][792]OBJ SavePackage: Finished generating thumbnails for package [/Game/Robo/Characters/Demon/Human_Template2]
+[2020.11.05-05.57.34:846][792]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Human_Template2_Auto8A0250EAF4E48B3E6AAA0BD8BFF2C1232.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Autosaves/Game/Robo/Characters/Demon/Human_Template2_Auto8.uasset'
+[2020.11.05-05.57.34:849][792]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Robo/PlayerBP] ([1] browsable assets)...
+[2020.11.05-05.57.34:900][792]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Robo/PlayerBP.PlayerBP]
+[2020.11.05-05.57.34:900][792]OBJ SavePackage: Finished generating thumbnails for package [/Game/Robo/PlayerBP]
+[2020.11.05-05.57.34:924][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robo/PlayerBP" FILE="../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Autosaves/Game/Robo/PlayerBP_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2020.11.05-05.57.35:132][792]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/PlayerBP_Auto83702204A44F1F10B949BCE84BA305880.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Autosaves/Game/Robo/PlayerBP_Auto8.uasset'
+[2020.11.05-05.57.35:136][792]LogFileHelpers: Auto-saving content packages took 1.120
+[2020.11.05-05.58.01:914][846]BlueprintLog: New page: Compile Human_Template2
+[2020.11.05-05.58.01:980][846]LogBlueprint: Warning: [Compiler Human_Template2] Set cloasestEnemy  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2020.11.05-05.58.01:984][846]LogBlueprint: Error: [Compiler Human_Template2] Found more than one function with the same name GetClosestEnemy; second occurance at  Get Closest Enemy
+[2020.11.05-05.58.02:662][846]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2020.11.05-05.58.04:321][902]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Human_Template2EF8277BB430B4F0884E38484544E50CA.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Content/Robo/Characters/Demon/Human_Template2.uasset'
+[2020.11.05-05.58.04:367][902]AssetCheck: New page: Asset Save: Human_Template2
+[2020.11.05-05.58.04:367][902]LogContentValidation: Display: Validating Blueprint /Game/Robo/Characters/Demon/Human_Template2.Human_Template2
+[2020.11.05-05.58.33:981][273]BlueprintLog: New page: Compile Human_Template2
+[2020.11.05-05.58.34:046][273]LogBlueprint: Error: [Compiler Human_Template2] Found more than one function with the same name GetClosestEnemy; second occurance at  Get Closest Enemy
+[2020.11.05-05.58.34:429][273]LogUObjectHash: Compacting FUObjectHashTables data took   6.53ms
+[2020.11.05-05.58.35:327][301]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Human_Template22D099EC3402BF48145A39994ADB4FA55.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Content/Robo/Characters/Demon/Human_Template2.uasset'
+[2020.11.05-05.58.35:348][301]AssetCheck: New page: Asset Save: Human_Template2
+[2020.11.05-05.58.35:349][301]LogContentValidation: Display: Validating Blueprint /Game/Robo/Characters/Demon/Human_Template2.Human_Template2
+[2020.11.05-05.58.49:181][ 16]BlueprintLog: New page: Compile Human_Template2
+[2020.11.05-05.58.49:230][ 16]LogBlueprint: Error: [Compiler Human_Template2] Found more than one function with the same name GetClosestEnemy; second occurance at  Get Closest Enemy
+[2020.11.05-05.58.49:612][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   6.68ms
+[2020.11.05-05.59.37:838][583]BlueprintLog: New page: Compile Human_Template2
+[2020.11.05-05.59.38:285][583]LogUObjectHash: Compacting FUObjectHashTables data took   6.93ms
+[2020.11.05-05.59.39:317][594]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Human_Template2251DF37440446CF1F39143A423462EA4.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Content/Robo/Characters/Demon/Human_Template2.uasset'
+[2020.11.05-05.59.39:344][594]AssetCheck: New page: Asset Save: Human_Template2
+[2020.11.05-05.59.39:344][594]LogContentValidation: Display: Validating Blueprint /Game/Robo/Characters/Demon/Human_Template2.Human_Template2
+[2020.11.05-06.07.05:861][383]BlueprintLog: New page: Compile Human_Template2
+[2020.11.05-06.07.06:327][383]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
+[2020.11.05-06.07.07:127][399]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Human_Template29C3EEC2147139270C2E3859B29FB8E40.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Content/Robo/Characters/Demon/Human_Template2.uasset'
+[2020.11.05-06.07.07:150][399]AssetCheck: New page: Asset Save: Human_Template2
+[2020.11.05-06.07.07:150][399]LogContentValidation: Display: Validating Blueprint /Game/Robo/Characters/Demon/Human_Template2.Human_Template2
+[2020.11.05-06.07.43:604][154]LogUObjectHash: Compacting FUObjectHashTables data took   9.51ms
+[2020.11.05-06.07.44:042][154]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/TestLeve_Auto9C733DA114465E034A18B30958D15AF74.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Autosaves/Game/Robo/Scenes/TestLeve_Auto9.umap'
+[2020.11.05-06.07.44:046][154]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Robo/Scenes/TestLeve' took 0.531
+[2020.11.05-06.07.44:046][154]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.531
+[2020.11.05-06.07.44:046][154]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Robo/Characters/Demon/Enemy1] ([1] browsable assets)...
+[2020.11.05-06.07.44:047][154]OBJ SavePackage: Finished generating thumbnails for package [/Game/Robo/Characters/Demon/Enemy1]
+[2020.11.05-06.07.44:153][154]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Enemy1_Auto9FE5CD9C245AC7E313533B89D83738A86.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Autosaves/Game/Robo/Characters/Demon/Enemy1_Auto9.uasset'
+[2020.11.05-06.07.44:156][154]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Robo/PlayerBP] ([1] browsable assets)...
+[2020.11.05-06.07.44:156][154]OBJ SavePackage: Finished generating thumbnails for package [/Game/Robo/PlayerBP]
+[2020.11.05-06.07.44:156][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robo/PlayerBP" FILE="../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Autosaves/Game/Robo/PlayerBP_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2020.11.05-06.07.44:245][154]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/PlayerBP_Auto9EF024E7941FCBFB4FF2947AA3D2A072A.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Autosaves/Game/Robo/PlayerBP_Auto9.uasset'
+[2020.11.05-06.07.44:248][154]LogFileHelpers: Auto-saving content packages took 0.202
+[2020.11.05-06.08.15:558][320]LogSlate: Window 'CharacterInterface' being destroyed
+[2020.11.05-06.08.15:593][320]LogSlate: Window 'CharacterInterface' being destroyed
+[2020.11.05-06.08.15:646][320]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.11.05-06.08.15:646][320]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-06.08.15:646][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-06.08.17:974][320]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-06.08.17:975][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-06.08.21:524][381]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2020.11.05-06.08.23:138][381]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.11.05-06.08.23:808][381]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/TestLeveE25C23674A795EE4867254A68B898941.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Content/Robo/Scenes/TestLeve.umap'
+[2020.11.05-06.08.24:535][381]LogFileHelpers: Saving map 'TestLeve' took 2.926
+[2020.11.05-06.08.24:535][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robo/Characters/Demon/Enemy1" FILE="../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Content/Robo/Characters/Demon/Enemy1.uasset" SILENT=true
+[2020.11.05-06.08.24:631][381]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/Enemy107BEB21E4EB948DAE55E9B8A121297C3.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Content/Robo/Characters/Demon/Enemy1.uasset'
+[2020.11.05-06.08.24:636][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robo/PlayerBP" FILE="../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Content/Robo/PlayerBP.uasset" SILENT=true
+[2020.11.05-06.08.24:714][381]LogSavePackage: Moving '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Saved/PlayerBP62B910134E83313E04080397D2E5FF04.tmp' to '../../../../../../Users/Robertom/Documents/GitHub/OpenWorld/Open_W/Content/Robo/PlayerBP.uasset'
+[2020.11.05-06.08.24:767][381]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.05-06.08.24:767][381]LogContentValidation: Display: Validating World /Game/Robo/Scenes/TestLeve.TestLeve
+[2020.11.05-06.08.24:767][381]LogContentValidation: Display: Validating Blueprint /Game/Robo/Characters/Demon/Enemy1.Enemy1
+[2020.11.05-06.08.24:767][381]LogContentValidation: Display: Validating Blueprint /Game/Robo/PlayerBP.PlayerBP
+[2020.11.05-06.08.30:824][943]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.11.05-06.08.31:044][943]LogSlate: Window 'Open_W - Unreal Editor' being destroyed
+[2020.11.05-06.08.31:058][943]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.05-06.08.32:257][944]Cmd: QUIT_EDITOR
+[2020.11.05-06.08.32:257][944]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.11.05-06.08.32:407][944]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.11.05-06.08.32:443][944]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.05-06.08.34:976][944]LogExit: Preparing to exit.
